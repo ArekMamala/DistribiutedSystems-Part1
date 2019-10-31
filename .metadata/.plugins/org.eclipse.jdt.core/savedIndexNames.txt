@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\.metadata\.plugins\org.eclipse.jdt.core
+1125302271.index
+2059263575.index
+1350488882.index
+3130990260.index
+1848366140.index
+441603453.index
+3121415072.index
+418101242.index
+839839784.index
+148566895.index
+2473160061.index
+483633657.index
+3469383113.index
+874378122.index
+3411641087.index
+2092229454.index
+1025486951.index
+4210876544.index
+4276977256.index
