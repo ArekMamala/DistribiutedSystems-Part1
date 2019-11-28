@@ -6,4 +6,5 @@
 <fullyQualifiedTypeName name="com.google.protobuf.ByteString"/>
 <fullyQualifiedTypeName name="com.grpcproject.User"/>
 <fullyQualifiedTypeName name="com.Api.user"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
 </qualifiedTypeNameHistroy>
