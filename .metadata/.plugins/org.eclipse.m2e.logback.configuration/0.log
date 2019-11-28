@@ -6526,3 +6526,100 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.fasterxml
 2019-11-28 02:25:36,345 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\grpcClient\src\main\resources
 2019-11-28 02:25:36,357 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-28 02:25:36,365 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\grpcClient\src\test\resources
+2019-11-28 16:40:17,769 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-28 16:40:41,555 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.grpcclient:grpcClient:0.0.1-SNAPSHOT @ C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\pom.xml.
+2019-11-28 16:40:45,795 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:40:45,796 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\main\resources
+2019-11-28 16:40:45,798 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:40:45,799 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\test\resources
+2019-11-28 16:40:48,962 [Worker-10: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.grpcproject:grpcProject:0.0.1-SNAPSHOT @ C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\pom.xml.
+2019-11-28 16:40:49,508 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Protoc version: 3.6.0
+2019-11-28 16:40:51,276 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Protoc command: C:\Users\mamal\AppData\Local\Temp\protocjar1740052404808990862\bin\protoc.exe
+2019-11-28 16:40:51,277 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Additional include types: C:\Users\mamal\AppData\Local\Temp\protocjar124585051968160309\include
+2019-11-28 16:40:51,353 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/any.proto
+2019-11-28 16:40:51,357 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/api.proto
+2019-11-28 16:40:51,359 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/compiler/plugin.proto
+2019-11-28 16:40:51,390 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/descriptor.proto
+2019-11-28 16:40:51,462 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/duration.proto
+2019-11-28 16:40:51,476 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/empty.proto
+2019-11-28 16:40:51,487 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/field_mask.proto
+2019-11-28 16:40:51,489 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/source_context.proto
+2019-11-28 16:40:51,509 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/struct.proto
+2019-11-28 16:40:51,511 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/timestamp.proto
+2019-11-28 16:40:51,532 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/type.proto
+2019-11-28 16:40:51,547 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/wrappers.proto
+2019-11-28 16:40:51,850 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Input directories:
+2019-11-28 16:40:51,850 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\resources
+2019-11-28 16:40:51,908 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Include directories:
+2019-11-28 16:40:51,908 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     C:\Users\mamal\AppData\Local\Temp\protocjar124585051968160309\include
+2019-11-28 16:40:51,908 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Output targets:
+2019-11-28 16:40:51,908 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     java: C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\java (add: main, clean: false, plugin: null, outputOptions: null)
+2019-11-28 16:40:51,908 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     grpc-java: C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\java (add: main, clean: false, plugin: null, outputOptions: null)
+2019-11-28 16:40:51,909 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Resolving artifact: io.grpc:protoc-gen-grpc-java:1.15.0, platform: windows-x86_64
+2019-11-28 16:40:52,429 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     Processing (java): user.proto
+2019-11-28 16:40:52,659 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding generated classes to classpath
+2019-11-28 16:40:52,668 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     Processing (grpc-java): user.proto
+2019-11-28 16:40:52,668 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     Plugin path: C:\Users\mamal\AppData\Local\Temp\protoc-gen-grpc-java7739436677021615725.exe
+2019-11-28 16:40:53,479 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding generated classes to classpath
+2019-11-28 16:40:53,482 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:40:53,533 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 16:40:53,621 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:40:53,630 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\test\resources
+2019-11-28 16:40:58,308 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Protoc version: 3.6.0
+2019-11-28 16:41:01,736 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Protoc command: C:\Users\mamal\AppData\Local\Temp\protocjar5070655204706058255\bin\protoc.exe
+2019-11-28 16:41:01,819 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Additional include types: C:\Users\mamal\AppData\Local\Temp\protocjar1626759365076752191\include
+2019-11-28 16:41:01,917 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/any.proto
+2019-11-28 16:41:01,961 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/api.proto
+2019-11-28 16:41:01,986 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/compiler/plugin.proto
+2019-11-28 16:41:02,010 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/descriptor.proto
+2019-11-28 16:41:02,053 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/duration.proto
+2019-11-28 16:41:02,055 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/empty.proto
+2019-11-28 16:41:02,069 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/field_mask.proto
+2019-11-28 16:41:02,073 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/source_context.proto
+2019-11-28 16:41:02,089 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/struct.proto
+2019-11-28 16:41:02,090 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/timestamp.proto
+2019-11-28 16:41:02,095 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/type.proto
+2019-11-28 16:41:02,099 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     google/protobuf/wrappers.proto
+2019-11-28 16:41:02,545 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Input directories:
+2019-11-28 16:41:02,545 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\resources
+2019-11-28 16:41:02,630 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Include directories:
+2019-11-28 16:41:02,630 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     C:\Users\mamal\AppData\Local\Temp\protocjar1626759365076752191\include
+2019-11-28 16:41:02,630 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Output targets:
+2019-11-28 16:41:02,630 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     java: C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\java (add: main, clean: false, plugin: null, outputOptions: null)
+2019-11-28 16:41:02,630 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger -     grpc-java: C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\java (add: main, clean: false, plugin: null, outputOptions: null)
+2019-11-28 16:41:02,631 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Resolving artifact: io.grpc:protoc-gen-grpc-java:1.15.0, platform: windows-x86_64
+2019-11-28 16:41:03,331 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not changed C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\resources\user.proto
+2019-11-28 16:41:03,331 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding generated classes to classpath
+2019-11-28 16:41:03,393 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not changed C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\main\resources\user.proto
+2019-11-28 16:41:03,394 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding generated classes to classpath
+2019-11-28 16:41:03,396 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:41:03,401 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 16:41:03,407 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:41:03,407 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcProject\src\test\resources
+2019-11-28 16:41:10,343 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-28 16:41:10,906 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.grpcclient:grpcClient:0.0.1-SNAPSHOT @ C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\pom.xml.
+2019-11-28 16:41:11,697 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /grpcClient/src/main/java
+2019-11-28 16:41:11,698 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /grpcClient/src/test/java
+2019-11-28 16:41:12,081 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-11-28 16:41:12,809 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:41:12,820 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\main\resources
+2019-11-28 16:41:12,834 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:41:12,986 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\test\resources
+2019-11-28 16:41:33,257 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 16:41:33,465 [Worker-9: Launching GrpcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient
+2019-11-28 16:41:33,474 [Worker-9: Launching GrpcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2019-11-28 16:44:46,225 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:44:46,226 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\main\resources
+2019-11-28 16:44:46,277 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:44:46,299 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\test\resources
+2019-11-28 16:48:22,586 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.grpcclient:grpcClient:0.0.1-SNAPSHOT @ C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\pom.xml.
+2019-11-28 16:48:23,473 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:48:23,483 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\main\resources
+2019-11-28 16:48:23,494 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 16:48:23,501 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient\src\test\resources
+2019-11-28 16:48:55,793 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 16:48:55,825 [Worker-17: Launching GrpcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient
+2019-11-28 16:48:55,834 [Worker-17: Launching GrpcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2019-11-28 16:50:48,703 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-11-28 16:50:48,862 [Worker-13: Launching GrpcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mamal\Desktop\sammars\DistribiutedSystems-Part1\grpcClient
+2019-11-28 16:50:48,869 [Worker-13: Launching GrpcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
