@@ -1,6 +1,7 @@
 package com.Api;
 
 
+import java.net.URI;
 import java.util.Collection;
 import java.util.HashMap;
 
@@ -18,12 +19,14 @@ import javax.ws.rs.Produces;
 @Path("/users") // Tells Jersey that this resource is accessible at URL
 @Produces(MediaType.APPLICATION_JSON)
 public class UserApiResources {
-	ManagedChannel channel = ManagedChannelBuilder.forAddress("localhost", 9090).usePlaintext().build();
-	// collection frame work to store all users data//
+	ManagedChannel channel = ManagedChannelBuilder.forAddress("localhost", 9000).usePlaintext().build();
+	
+	// frame work to store all users data
 	private HashMap<Integer, user> usersMap = new HashMap<>();
 
 	user newuser;
 
+	//test accounts
 	user testUser = new user(0, "arek", "arek@gmail.com", "aadfadfadfad", "");
 	user testUser1 = new user(1, "The arekM", "ajsbxdjhs", "b", "");
 
@@ -34,13 +37,14 @@ public class UserApiResources {
 
 	}
 
+	//getting all users
 	@GET
 	public Collection<user> getUsers() {
 
 		return usersMap.values();
 	}
 
-	// Getting individual user by id//
+	// Getting one user by id
 	@GET
 	@Path("/{userId}")
 	public Response getUserById(@PathParam("userId") int id) throws Exception {
@@ -56,6 +60,7 @@ public class UserApiResources {
 
 	}
 	
+	//delete method for deleting users
 	@DELETE
 	@Path("{userId}")
 	public Response deleteUser(@PathParam("userId") int id) throws Exception {
@@ -70,6 +75,7 @@ public class UserApiResources {
 		}
 	}
 	
+	//put method for updating users
 	@PUT
 	@Path("/{userId}")
 	public Response updateUser(@PathParam("userId")int id, user user) throws Exception {
@@ -83,5 +89,21 @@ public class UserApiResources {
 		return Response.status(Status.OK).entity(usersMap.get(id)).build();
 	}
 	
+	//post methd for creating a new user 
+	@POST
+	  public Response newUser(user user) throws Exception {
+
+	    int id = usersMap.size() + 1;
+
+	    user.setUserId(id);
+
+	    String usernew = String.valueOf(user.getUserId());
+
+	    usersMap.put(id, user);
+
+	    return Response.created(new URI("/users/" + usernew)).entity(usersMap.get(user.getUserId()))
+	        .status(Status.CREATED).build();
+
+	  }
 
 }
