@@ -12,3 +12,9 @@ then run client to connect to that server
 
 client is also availeble in this project for checking if server is connecting correctly
 run client in eclipse to connect to server
+
+
+#Part 2 how to run 
+
+1.clone Project usning CMD "clone git https://github.com/ArekMamala/DistribiutedSysttems-Part1"
+2.Or download relese file 
