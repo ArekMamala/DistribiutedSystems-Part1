@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\mamal\Desktop"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -10,7 +11,7 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item key="pageIndex" value="3"/>
+		<item key="pageIndex" value="2"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>
@@ -62,10 +63,12 @@
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\mamal\Desktop\Distributed-System-Project-master\Distributed-System-Project-master"/>
 		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
 		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="GrpcServer - grpcServer"/>
-		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\server-test1.jar"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\ClientArkadiuszMamala.jar"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
-			<item value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\server-test1.jar"/>
+			<item value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\ClientArkadiuszMamala.jar"/>
+			<item value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\ServerArkadiuszMamala.jar"/>
 			<item value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\server-test.jar"/>
+			<item value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\server-test1.jar"/>
 			<item value="C:\Users\mamal\Desktop\ArkadiuszMamala_DistributedSystems_Project\DistribiutedSysttems\server.jar"/>
 			<item value="C:\Users\mamal\Desktop\Distributed-System-Project-master\Distributed-System-Project-master\your-service.jar"/>
 		</list>
@@ -80,5 +83,15 @@
 	<section name="RefactoringWizard.preview">
 		<item key="width" value="600"/>
 		<item key="height" value="400"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item key="renameSubpackages" value="false"/>
+		<item key="updateTextualMatches" value="false"/>
+		<item key="updateQualifiedNames" value="false"/>
+		<item key="patterns" value="*"/>
 	</section>
 </section>
