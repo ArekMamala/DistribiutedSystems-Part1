@@ -23,6 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/mamal/Desktop/sammars/DistribiutedSystems-Part1/grpcClient/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mamal/Desktop/ArkadiuszMamala_DistributedSystems_Project/DistribiutedSystems-Part1/grpcClient/javax.ws.rs-api-2.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -1,3 +1,6 @@
+//Arkadiusz Mamala
+//G00349088 part 2 DS
+
 import com.grpcproject.User.APIResponse;
 import com.grpcproject.User.LoginRequest;
 import com.grpcproject.userGrpc;
