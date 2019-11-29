@@ -2,7 +2,7 @@
 ## Part 1
 Arkadiusz Mamala Distributed systems project
 
-clone Project usning CMD "clone git https://github.com/ArekMamala/DistribiutedSysttems-Part1"
+clone Project usning CMD "git clone https://github.com/ArekMamala/DistribiutedSysttems-Part1"
 or 
 download jar file 
 
