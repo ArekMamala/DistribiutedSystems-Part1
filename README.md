@@ -1,20 +1,44 @@
-# DistribiutedSysttems
-Arkadiusz Mamala Distributed systems project
+# DistribiutedSystems
+## Part 1
 
-clone Project usning CMD "clone git https://github.com/ArekMamala/DistribiutedSysttems-Part1"
-or 
-download jar file 
+Arkadiusz Mamala Distributed systems 
 
-Run project in eclipse or run jar file in command prompt
-to run jar file use "java -jar ServerArkadiuszMamala.jar"
+clone Project using CMD 
 
-then run client to connect to that server 
+"git clone https://github.com/ArekMamala/DistribiutedSysttems-Part1" 
 
-client is also availeble in this project for checking if server is connecting correctly
-run client in eclipse to connect to server
+or download jar file
+
+Run project in eclipse 
+
+or run jar file in command prompt to run jar file use "java -jar ServerArkadiuszMamala.jar"
+
+then run client to connect to that server
+
+client is also available in this project for checking if server is connecting correctly run client in eclipse to connect to server
+
+## Part 2
+
+1.	Clone Project using CMD "clone git https://github.com/ArekMamala/DistribiutedSysttems-Part1"
+
+2.	Or download jar from release
+  go to jar file directory where userApiConfig.yaml is present  
+  open comand prompt run the command - java -jar grpcClient-0.0.1-SNAPSHOT.jar server userApiConfig.yaml
+
+Run the URL http://localhost:9000/users
+
+Download postman and run 
 
 
-#Part 2 how to run 
+check postman for checking
+•	POST
+•	PUT
+•	DELETE
+•	GET
 
-1.clone Project usning CMD "clone git https://github.com/ArekMamala/DistribiutedSysttems-Part1"
-2.Or download relese file 
+## Swagger Link
+https://app.swaggerhub.com/apis/ArekMamala/UserApi/1.1
+________________________________________
+#### Arkadiusz Mamala
+#### G00349088
+
